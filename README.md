@@ -31,7 +31,7 @@ Dong-eui university used bookstore D-BOOK
 
 웹 사이트 이미지 
 - 
-#중복 검사 및 로그인 회원 가입
+*중복 검사 및 로그인 회원 가입*
 
 ![image](https://github.com/dhdhfkk1119/web-deubook/assets/140272714/f0604555-01b0-46ac-9a63-5d71c8e39f71)
 
