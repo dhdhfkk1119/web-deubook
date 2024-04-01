@@ -59,4 +59,4 @@ Dong-eui university used bookstore D-BOOK
 
 ![image](https://github.com/dhdhfkk1119/web-deubook/assets/140272714/29ea25f3-aa8a-4c97-81c0-0cedf33f4ec5)
 
-##### 대학교 웹프로그래밍 과제 입니다.
+이상 대학교 웹프로그래밍 과제 였습니다.
