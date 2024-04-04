@@ -10,6 +10,8 @@ Dong-eui university used bookstore D-BOOK
 
 사용 언어 : html ,php , js 
 
+DB : 파일은 따로 올렸으며 , XAMPP - MYsql 사용
+
 사용 설명 : 학교를 졸업 하거나 학점을 다 채운 학생들이 예전에 샀던 책이 필요가 없어지면 그책을 등록하고 판매 하거나
 
 또는 학기 초가 되면 자신이 듣는 수업에 필요한 책이 필요한 경우 구매 하는 사이트 
