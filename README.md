@@ -8,7 +8,7 @@ Dong-eui university used bookstore D-BOOK
 
 코드 편집기 : sublimetext 
 
-사용 언어 : php , js 
+사용 언어 : html ,php , js 
 
 사용 설명 : 학교를 졸업 하거나 학점을 다 채운 학생들이 예전에 샀던 책이 필요가 없어지면 그책을 등록하고 판매 하거나
 
